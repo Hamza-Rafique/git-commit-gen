@@ -1,22 +1,24 @@
 {
-  "name": "git-commit-gen",
+  "name": "@hamzarafique964/git-commit-gen",
   "version": "1.0.0",
-  "description": "",
+  "description": "CLI tool to generate Git commit messages",
+  "bin": {
+    "git-commit-gen": "index.js"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "git",
+    "commit",
+    "cli"
+  ],
+  "author": "Hamza Rafique",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^5.4.1",
-    "commander": "^14.0.0",
     "inquirer": "^8.2.4",
-    "openai": "^5.5.0",
     "simple-git": "^3.28.0"
-  },
-  "bin": {
-    "git-commit-gen": "./index.js"
   }
 }
