@@ -2,7 +2,7 @@
 
 A CLI tool to generate standardized Git commit messages with ease.
 
-[![npm version](https://img.shields.io/npm/v/@yourusername/git-commit-gen)](https://www.npmjs.com/package/@yourusername/git-commit-gen)
+[![npm version](https://img.shields.io/npm/v/@hamzarafique964/git-commit-gen)](https://www.npmjs.com/package/@hamzarafique964/git-commit-gen)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## Features
@@ -16,7 +16,7 @@ A CLI tool to generate standardized Git commit messages with ease.
 ## Installation
 
 ```bash
-npm install -g @yourusername/git-commit-gen
+npm install -g @hamzarafique964/git-commit-gen
 ```
 ## Usage
 Stage your changes:
