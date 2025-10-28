@@ -16,7 +16,7 @@ A CLI tool to generate standardized Git commit messages with ease.
 ## Installation
 
 ```bash
-npm install -g @hamzarafique964/git-commit-gen
+npm install -g git-commit-gen
 ```
 ## Usage
 Stage your changes:
