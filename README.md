@@ -1,8 +1,8 @@
-# git-commit-gen 📝✨
+# commit-wizard 📝✨
 
 A CLI tool to generate standardized Git commit messages with ease.
 
-[![npm version](https://img.shields.io/npm/v/@hamzarafique964/git-commit-gen)](https://www.npmjs.com/package/@hamzarafique964/git-commit-gen)
+[![npm version](https://img.shields.io/npm/v/@hamzarafique964/commit-wizard)](https://www.npmjs.com/package/@hamzarafique964/commit-wizard)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## Features
@@ -16,7 +16,7 @@ A CLI tool to generate standardized Git commit messages with ease.
 ## Installation
 
 ```bash
-npm install -g git-commit-gen
+npm install -g commit-wizard
 ```
 ## Usage
 Stage your changes:
@@ -25,7 +25,7 @@ git add .
 ```
 Generate and commit:
 ```bash
-git-commit-gen
+commit-wizard
 ```
 Follow the prompts:
 ```bash ? Select commit type: (Use arrow keys)
