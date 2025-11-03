@@ -1,8 +1,8 @@
-# commit-wizard 📝✨
+# commit-message 📝✨
 
 A CLI tool to generate standardized Git commit messages with ease.
 
-[![npm version](https://img.shields.io/npm/v/@hamzarafique964/commit-wizard)](https://www.npmjs.com/package/@hamzarafique964/commit-wizard)
+[![npm version](https://img.shields.io/npm/v/@hamzarafique964/commit-message)](https://www.npmjs.com/package/@hamzarafique964/commit-message)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## Features
@@ -16,7 +16,7 @@ A CLI tool to generate standardized Git commit messages with ease.
 ## Installation
 
 ```bash
-npm install -g commit-wizard
+npm install -g commit-message
 ```
 ## Usage
 Stage your changes:
