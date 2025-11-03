@@ -1,8 +1,8 @@
-# commit-message 📝✨
+# git-commit-gen📝✨
 
 A CLI tool to generate standardized Git commit messages with ease.
 
-[![npm version](https://img.shields.io/npm/v/@hamzarafique964/commit-message)](https://www.npmjs.com/package/@hamzarafique964/commit-message)
+[![npm version](https://img.shields.io/npm/v/@hamzarafique964/git-commit-gen)](https://www.npmjs.com/package/@hamzarafique964/git-commit-gen)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ## Features
@@ -16,7 +16,7 @@ A CLI tool to generate standardized Git commit messages with ease.
 ## Installation
 
 ```bash
-npm install -g commit-message
+npm install -g @hamzarafique964/git-commit-gen
 ```
 ## Usage
 Stage your changes:
