@@ -25,7 +25,7 @@ git add .
 ```
 Generate and commit:
 ```bash
-commit-wizard
+git-commit-gen
 ```
 Follow the prompts:
 ```bash ? Select commit type: (Use arrow keys)
