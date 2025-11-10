@@ -7,7 +7,9 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "commit": "node index.js",
+    "commitlint": "commitlint --edit",
+    "prepare": "husky"
   },
   "keywords": [
     "git",
@@ -20,5 +22,10 @@
     "chalk": "^5.4.1",
     "inquirer": "^8.2.4",
     "simple-git": "^3.28.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^20.1.0",
+    "@commitlint/config-conventional": "^20.0.0",
+    "husky": "^9.1.7"
   }
 }

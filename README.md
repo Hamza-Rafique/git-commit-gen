@@ -1,6 +1,6 @@
 # git-commit-gen📝✨
 
-A CLI tool to generate standardized Git commit messages with ease.
+A CLI tool to generate standardized Git commit messages with ease..
 
 [![npm version](https://img.shields.io/npm/v/@hamzarafique964/git-commit-gen)](https://www.npmjs.com/package/@hamzarafique964/git-commit-gen)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
