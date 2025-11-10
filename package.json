@@ -9,6 +9,7 @@
   "scripts": {
     "commit": "node index.js",
     "commitlint": "commitlint --edit",
+    "test": "echo \"No tests yet\" && exit 0",
     "prepare": "husky"
   },
   "keywords": [
